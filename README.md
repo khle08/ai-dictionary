@@ -18,6 +18,6 @@
 # 我们将给读者带来什么 ?
 除了板块中的文章分享之外，我们后续将定期开办分享活动，帮助读者把理论与实践之间的鸿沟填平，扫除这些学习路途上的障碍，分享形式包括，公众号分享以及每周腾讯会议分享（感兴趣者可关注公众号，每周更新腾讯会议房间号），面对面和作者团队交流算法。
 
-![QR.jpg](https://github.com/khle08/algo-dictionary/tree/master/pics/QR.jpg)
+![QR.jpg](https://github.com/khle08/algo-dictionary/blob/master/pics/QR.jpg)
 
 世界上没有白走的路、每一次阅读都算数！
